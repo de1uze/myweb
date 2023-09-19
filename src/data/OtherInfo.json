@@ -1,0 +1,134 @@
+{
+    "basic_info": {
+      "description_header": "Hello",
+      "description": " 👋 I'm Pratik Shringarpure.I am a recent graduate from Nutan College of Engineering in Pune, specializing in Front-End Development. With a strong foundation in HTML, CSS, and React, I am passionate about leveraging these skills to create visually stunning and user-friendly websites.I am committed to continuous learning and growth in the dynamic field of web development. I am excited to contribute my expertise to innovative projects and collaborate with like-minded professionals to deliver exceptional web experiences.",
+      "section_name": {
+        "about": "About",
+        "projects": "Personal Projects",
+        "skills": "Top Skills",
+        "experience": "Experience"
+      }
+    },
+    "projects": [
+      {
+        "title": "Student Ed-Tech Platform",
+        "startDate": "2023",
+        "description": "A simple Student Dashboard with Login and Sign-up functionality. A replica of ZEN Class Student Dashboard using React ",
+        "images": [
+          "images/portfolio/zen-dash/Homepage.png", 
+          "images/portfolio/zen-dash/Dashboard.png",
+          "images/portfolio/zen-dash/Courses.png",
+          "images/portfolio/zen-dash/Tasks.png",
+          "images/portfolio/zen-dash/Classes.png"
+        ],
+        "url": "https://zenclass-dashboard.vercel.app/",
+        "technologies": [
+          {
+            "class": "devicon-react-plain",
+            "name": "React"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          }
+        ]
+      },
+      
+      {
+        "title": "Foodlify | A Recipe Suggestion Website ",
+        "startDate": "2023",
+        "description": "College Capstone Project | A Realtime recipe and dish suggestion built on React and Mongo DB.Uses Python machine learning collaboration for recipe.  ",
+        "images": [
+          "images/portfolio/realtime-code/Homepage.png",
+          "images/portfolio/realtime-code/Login.png", 
+          "images/portfolio/realtime-code/Footer.png"
+        
+        ],
+        "url": "https://foodlify-omega.vercel.app/",
+        "technologies": [
+          {
+            "class": "devicon-react-original",
+            "name": "React"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          },
+          {
+            "class": "devicon-nodejs-plain",
+            "name": "Node js"
+          }
+        ]
+      },
+      {
+        "title": "Student Database system",
+        "startDate": "2023",
+        "description": "A simple Student-teacher database web page with CRUD operations for the same",
+        "images": [
+          "images/portfolio/food-ordering/crud1.png",
+          "images/portfolio/food-ordering/crud3.png",
+          "images/portfolio/food-ordering/crud4.png",
+          "images/portfolio/food-ordering/crud2.png"
+        ],
+        "url": "https://stud-dashboard.vercel.app/",
+        "technologies": [
+          {
+            "class": "devicon-react-plain",
+            "name": "React"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "Javascript"
+          }
+        ]
+      },{
+        "title": "Online Courses Website",
+        "startDate": "2023",
+        "description": "A simple udemy look-a-like which displays various courses which can be filtered by category",
+        "images": [
+          "images/portfolio/food-ordering/ude1.png",
+          "images/portfolio/food-ordering/ude3.png",
+          "images/portfolio/food-ordering/ude2.png"
+        ],
+        "url": "https://course-data-six.vercel.app/",
+        "technologies": [
+          {
+            "class": "devicon-react-plain",
+            "name": "React"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "Javascript"
+          }
+        ]
+      }
+    ],
+    "experience": [
+      {
+        "company": "DeltaX | PUNE",
+        "title": "Digital Operations analyst",
+        "years": "09.2023 - Present",
+        "mainTech": [
+          "Digital Marketing"
+        ],
+        "technologies": [
+          "Digital Marketing",
+          "Analytics",
+          "M.Excel"
+        ]
+      },
+      {
+        "company": "Pi. Syst IND PVT Ltd.  | PUNE",
+        "title": "Jr. Python Developer (Intern)",
+        "years": "09.2021 - 04.2022",
+        "mainTech": [
+          "Python"
+        ],
+        "technologies": [
+          "Python",
+          "Problem solving"        
+        ]
+      }
+      
+    ]
+  }
